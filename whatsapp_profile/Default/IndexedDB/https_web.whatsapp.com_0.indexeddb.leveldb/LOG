@@ -1,0 +1,29 @@
+2026/08/26-22:14:25.884 1360 Reusing MANIFEST C:\Users\Admin\mkdir playwright-whatsapp-bot\whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/26-22:14:25.890 1360 Recovering log #259
+2026/08/26-22:14:26.083 1360 Reusing old log C:\Users\Admin\mkdir playwright-whatsapp-bot\whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000259.log 
+2026/08/26-22:14:26.086 1360 Delete type=2 #256
+2026/08/26-22:14:26.087 1360 Delete type=2 #260
+2026/08/26-22:15:02.524 1360 Level-0 table #265: started
+2026/08/26-22:15:02.649 1360 Level-0 table #265: 1111954 bytes OK
+2026/08/26-22:15:02.653 1360 Delete type=0 #259
+2026/08/26-22:15:03.273 1360 Compacting 1@1 + 4@2 files
+2026/08/26-22:15:03.834 1360 Generated table #266@1: 52561 keys, 2214944 bytes
+2026/08/26-22:15:04.028 1360 Generated table #267@1: 9445 keys, 2178249 bytes
+2026/08/26-22:15:04.227 1360 Generated table #268@1: 29328 keys, 1189290 bytes
+2026/08/26-22:15:04.227 1360 Compacted 1@1 + 4@2 files => 5582483 bytes
+2026/08/26-22:15:04.230 1360 compacted to: files[ 0 0 3 0 0 0 0 ]
+2026/08/26-22:15:53.065 1360 Level-0 table #270: started
+2026/08/26-22:15:53.212 1360 Level-0 table #270: 1338942 bytes OK
+2026/08/26-22:15:53.220 1360 Delete type=2 #257
+2026/08/26-22:15:53.221 1360 Delete type=2 #258
+2026/08/26-22:15:53.222 1360 Delete type=2 #261
+2026/08/26-22:15:53.222 1360 Delete type=2 #262
+2026/08/26-22:15:53.222 1360 Delete type=0 #264
+2026/08/26-22:15:53.222 1360 Delete type=2 #265
+2026/08/26-22:15:53.979 1360 Compacting 1@1 + 3@2 files
+2026/08/26-22:15:54.416 1360 Generated table #271@1: 56743 keys, 2218760 bytes
+2026/08/26-22:15:54.643 1360 Generated table #272@1: 12112 keys, 2181184 bytes
+2026/08/26-22:15:54.926 1360 Generated table #273@1: 33979 keys, 1623639 bytes
+2026/08/26-22:15:54.926 1360 Compacted 1@1 + 3@2 files => 6023583 bytes
+2026/08/26-22:15:54.928 1360 compacted to: files[ 0 0 3 0 0 0 0 ]
+2026/08/26-22:15:54.929 1360 Delete type=2 #270

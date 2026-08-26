@@ -1,0 +1,6 @@
+2026/08/26-22:14:18.643 5dd8 Reusing MANIFEST C:\Users\Admin\mkdir playwright-whatsapp-bot\whatsapp_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/08/26-22:14:18.668 5dd8 Recovering log #4
+2026/08/26-22:14:18.688 5dd8 Reusing old log C:\Users\Admin\mkdir playwright-whatsapp-bot\whatsapp_profile\Default\Local Storage\leveldb/000004.log 
+2026/08/26-22:16:09.550 758c Level-0 table #8: started
+2026/08/26-22:16:09.577 758c Level-0 table #8: 20328 bytes OK
+2026/08/26-22:16:09.593 758c Delete type=0 #4
