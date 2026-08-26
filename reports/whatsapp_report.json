@@ -4,12 +4,12 @@
         "phone": "919500463989",
         "message_sent": "Hello loganathan, how are you?",
         "status": "sent",
-        "timestamp": "2026-08-26 22:15:29",
+        "timestamp": "2026-08-26 22:41:42",
         "screenshot": "screenshots\\loganathan_919500463989.png",
         "last_3_messages": [
-            "3:54 pm",
             "Hello loganathan, how are you?\n9:50 pm",
-            "Hello loganathan, how are you?\n10:15 pm"
+            "Hello loganathan, how are you?\n10:15 pm",
+            "Hello loganathan, how are you?\n10:41 pm"
         ],
         "error": null
     },
@@ -18,7 +18,7 @@
         "phone": "919812345678",
         "message_sent": "Hi Kumar, this is a test.",
         "status": "failed",
-        "timestamp": "2026-08-26 22:16:00",
+        "timestamp": "2026-08-26 22:42:10",
         "screenshot": null,
         "last_3_messages": [],
         "error": "Unable to open WhatsApp chat."
