@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# Excel temporary/lock files
+~$*.xlsx
+~$*.xls
+
+# WhatsApp/Playwright browser data
+playwright/.auth/
+user_data/
+chrome_profile/
+
+# Screenshots
+screenshots/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
